@@ -6,6 +6,7 @@
 Gustavo Bravo Corona. Oct 6, 2023
 
 Image(s) or videos to help illustrate your narrative of the interaction
+![A photo of Costco, camera deal](/assets/IMG_7900.jpeg)
 
 I live in Lake Tahoe a nice and calm place where we only worry about the bears breaking in to the trash and making a mess. One day my dad notices that his bike was missing and was then worried if they were they going to go back and steal something else. He told me that we then needed to get some securyty cameras that will help us monitor all of our belongings outside of our house I then saw that there was an amazing deal at Costco 3 (3 Outside Camers, 1 Ring Camera, 1 indoor camera) It was a good deal for a pack of cameras. 
 
