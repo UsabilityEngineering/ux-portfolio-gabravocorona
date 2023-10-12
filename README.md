@@ -10,4 +10,4 @@ Im Gustavo Bravo I am a Computer Science Major. I took this class because I need
 
 ## UX Journal
 
-[Read about my experience with Blink Cameras](j01/README.md)
+**[Read about my experience with Blink Cameras](jO1/README.md)**
