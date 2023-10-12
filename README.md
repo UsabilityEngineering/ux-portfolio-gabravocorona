@@ -10,4 +10,4 @@ Coming soon.
 
 ## UX Journal
 
-[Read about my experience with Bash](j01/README.md)
+[Read about my experience with Blink Cameras](j01/README.md)
