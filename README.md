@@ -6,7 +6,7 @@ Im Gustavo Bravo I am a Computer Science Major. I took this class because I need
 
 ## UX Team Project
 
-Coming soon.
+**[Budget Travel](https://github.com/ChicoState/UX-BudgetTravel/edit/main/README.md)**
 
 ## UX Journal
 
