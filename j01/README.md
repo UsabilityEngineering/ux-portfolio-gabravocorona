@@ -5,7 +5,7 @@
 Gustavo Bravo Corona. 
 Oct 6, 2023
 
-<img src="../assets/IMG_7900.jpeg" alt="A photo of Costco, camera deal" width="1000" height="500">
+<img src="../assets/IMG_7900.jpeg" alt="A photo of Costco, camera deal" width="700" height="1000">
 
 I live in Lake Tahoe a nice and calm place where we only worry about the bears breaking in to the trash and making a mess. One day my dad noticed that his bike was missing and was then worried tha who ever took the bike was going to come back and try to steal something else from out side or the shed. He instantly called me and told me that we then needed to get some security cameras that will help us monitor all areas outside of our house I then saw that there was an amazing deal at Costco 3 (3 Outside Camers, 1 Ring Camera, 1 indoor camera) I thought it was a good deal for a pack of cameras and since we needed something available ASAP those were great. Reading the box instrutions and information of what is needed to be able to set them up it seemed like a **SALIENT** product it really jumped out to me since it seemed simple to set up and no cables were needed only batteries. 
 
