@@ -1,6 +1,6 @@
 # First Journal Entry...
 
-# House Secutity Cameras
+# Blink House Secutity Cameras
 
 Gustavo Bravo Corona. 
 Oct 6, 2023
