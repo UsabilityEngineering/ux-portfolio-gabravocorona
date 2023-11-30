@@ -1,6 +1,6 @@
 # Gustavo's UX Portfolio
 
-<img src="/assets/IMG_6157.jpeg" alt="A photo of Gustavo, the autor of this portfolio" width="600" height="600">
+<img src="/assets/IMG_6157.jpeg" alt="A photo of Gustavo, the autor of this portfolio" width="400" height="400">
 
 ## About me
 Im Gustavo Bravo I am a Computer Science Major. I took this class because I needed a writing class and since i had already take Software Engineering.
