@@ -2,6 +2,9 @@
 
 # Blink House Secutity Cameras
 
+<img src="../assets/blink_logo_smile_blue.png" alt="Blink logo" width="200" height="300">
+
+
 Gustavo Bravo Corona. 
 Oct 6, 2023
 
