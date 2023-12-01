@@ -6,7 +6,7 @@
 
 
 Gustavo Bravo Corona. 
-Oct 6, 2023
+Nov 30, 2023
 
 
 I live in Lake Tahoe and with all my life living there I can say that it's a really calm and beautiful place to live. My time living there I have never seen any type of crime around my home area. What the people in Tahoe mostly worry about are the bears breaking into the cars and houses to get food. Unfortunately one day my dad noticed that his bike was missing. He was then worried that whoever took the bike was going to come back and try to take something else. He instantly called me and told me that we then needed to get some cameras that will help us monitor all areas outside of our house and prevent something like that again. I then saw that there was an amazing deal at Costco where they were selling some Blink Cameras for only $189 the deal included (3 Outside Cameras, 1 Ring Camera, 1 indoor camera) I thought it was a good deal for a pack of cameras and since we needed something available as soon as possible. Reading the box instructions and information of what is needed to be able to set them up it seemed like a **SALIENT** product. The setup process for the cameras was intuitive, no cables were required, and they were easy to install with just batteries. The design is both accessible and effortless, making monitoring our surroundings a streamlined and engaging experience.
