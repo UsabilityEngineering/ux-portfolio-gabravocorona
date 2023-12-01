@@ -2,7 +2,7 @@
 
 # Blink House Secutity Cameras
 
-<img src="../assets/blink_logo_smile_blue.png" alt="Blink logo" width="200" height="300">
+<img src="../assets/blink_logo_smile_blue.png" alt="Blink logo" width="100" height="100">
 
 
 Gustavo Bravo Corona. 
