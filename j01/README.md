@@ -11,9 +11,11 @@ Nov 30, 2023
 
 I live in Lake Tahoe and with all my life living there, it's a calm and beautiful place to live. During my time living there, I have never seen any crime around my home area. The people in Tahoe mostly worry about the bears breaking into the cars and houses to get food. Unfortunately one day my dad noticed that his bike was missing. He was then worried that whoever took the bike was going to come back and try to take something else. He instantly called me and told me that we needed to get some cameras that would help us monitor all areas outside of our house and prevent something like that from happening again. I then saw that there was an amazing deal at Costco where they were selling some Blink Cameras for only $189 the deal included (3 Outside Cameras, 1 Ring Camera, and 1 indoor camera) I thought it was a good deal for a pack of cameras and since we needed something available as soon as possible. Reading the box instructions and information of what is needed to be able to set them up it seemed like a **SALIENT** product. The setup process for the cameras was intuitive, no cables were required, and they were easy to install with just batteries. The design is accessible and effortless, making monitoring our surroundings a streamlined and engaging experience.
 
+#
 
 <img src="../assets/Screenshot_2023-10-06_at_6.15.24_PM.jpeg" alt="A photo of Costco, camera deal" width="600" height="300">
 
+#
 
 Once I opened the box I was expecting an easy process of getting the cameras set up and simply downloading the app to be able to monitor the cameras like it said in the box. For the app, I was also expecting it to be an easy application to work with where I would be able to monitor the cameras at all times. I believed that it was going to be easy to understand and easy to learn when I first opened the app. Since they're cameras I was also expecting a free application with no need to pay for any Subscriptions, most cameras are used for the security of the users and to monitor the user's property at all times. The app lacked effective **FEEDBACK**, leaving me unsure of whether my actions were registering with the cameras. Additionally, the app's poor **AFFORDANCE** made it difficult to understand its functionalities and available interactions, with no clear guidance on where to find settings or navigate through the options.
 
